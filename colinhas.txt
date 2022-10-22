@@ -1,0 +1,4 @@
+*********** Media Query ***************
+
+é basicamente um conjunto de CSS que será aplicado 
+de acordo com o tamanho da tela
